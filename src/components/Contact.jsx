@@ -50,7 +50,7 @@ function Contact() {
           </div>
 
           <a
-            href="https://wa.me/5548999999999?text=Olá! Quero agendar um horário na Barber Elite."
+            href="https://wa.me/554899197255?text=Olá! Quero agendar um horário na Barber Elite."
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Agendar horário pelo WhatsApp"

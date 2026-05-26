@@ -36,7 +36,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://wa.me/5548999999999"
+            href="https://wa.me/554899197255?text=Olá! Quero agendar um horário na Barber Elite."
             target="_blank"
             rel="noopener noreferrer"
             aria-label="WhatsApp da Barber Elite"
